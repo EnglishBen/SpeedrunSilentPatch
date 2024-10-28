@@ -19,9 +19,7 @@ A proposed list of changes are below. Ones marked with a ? or ones I'm currently
 - Fix mouse sensitivity not saving on new game
 - Fix mouse not working on modern systems (DINPUT)
 - Y Sens Fix
-- Allow Alt+F4?
 - Remove censorship (FR+DE locales etc)
-- Implement X/Ginput?
 - Allow A or B drives to be used
 - Fix text having proper shadows (for III and VC)
 - Default to desktop resolution if no set file is present
@@ -39,13 +37,12 @@ A proposed list of changes are below. Ones marked with a ? or ones I'm currently
 
 ### Grand Theft Auto: San Andreas
 
-- 30fps?
 - Add 16:9 support on 1.0
 - Fix 1.0 homie recruiting replay bug
 - Remove EAX/Nvidia splash screens
 - Fix NG+ (Katie, Stats etc)
 - Fix car explosion crash
-- 1 core affinity set automatically?
+- 1 core affinity set automatically
 - Fix CPU uptime check for dance minigames
 - Allow save compatibility between versions
 - Fix default options (steer with mouse etc)
